@@ -3,6 +3,10 @@ site_description: Card Sec Cloud service documentation
 docs_dir: src
 site_author: Raphael Rego
 site_dir: dist
+nav:
+  - Home: index.md
+  - About: 
+    - 'License': 'license.md'
 theme:
   name: material
   favicon: apps/pwa-main-app/src/favicon.ico
